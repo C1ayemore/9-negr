@@ -1,0 +1,15 @@
+C:\Users\c1aye\source\repos\9 negrow\bin\Debug\net6.0\9 negrow.exe
+C:\Users\c1aye\source\repos\9 negrow\bin\Debug\net6.0\9 negrow.deps.json
+C:\Users\c1aye\source\repos\9 negrow\bin\Debug\net6.0\9 negrow.runtimeconfig.json
+C:\Users\c1aye\source\repos\9 negrow\bin\Debug\net6.0\9 negrow.dll
+C:\Users\c1aye\source\repos\9 negrow\bin\Debug\net6.0\9 negrow.pdb
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.csproj.AssemblyReference.cache
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.AssemblyInfoInputs.cache
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.AssemblyInfo.cs
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.csproj.CoreCompileInputs.cache
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.dll
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\refint\9 negrow.dll
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.pdb
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\9 negrow.genruntimeconfig.cache
+C:\Users\c1aye\source\repos\9 negrow\obj\Debug\net6.0\ref\9 negrow.dll
